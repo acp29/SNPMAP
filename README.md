@@ -16,8 +16,7 @@ Please try the example sequence.gbx.xml and snp_result.xml files distributed wit
 $ snpmap.py
 
 
-
-Information regarding snpmap.py output
+INFORMATION ABOUT SNPMAP OUTPUT
 
 The script will create a new folder corresponding to the protein of interest. Within this folder, the script will generate the following files:
 
