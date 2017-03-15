@@ -1,15 +1,18 @@
 # SNPMAP
-SNPMAP using NCBI database files to performs SNP annotation for proteins on interest 
+SNPMAP uses NCBI database files to perform SNP annotation for proteins of interest 
 
 Installation instructions to enable execution of python script snpmap.py from command line in Unix-based operating systems
 
 In the Unix terminal, cd to the directory containing the snpmap script and modify it's permissions by entering:
+
 $ chmod +x snpmap.py
 
 Add /path/to/snpmap to PATH (e.g. for Bash login shell by entering):
+
 $ export PATH="$PATH:/path/to/snpmap"
 
 Please try the example sequence.gbx.xml and snp_result.xml files distributed with this script: cd into the ‘test’ directory and enter the following command then follow the on-screen instructions:
+
 $ snpmap.py
 
 
