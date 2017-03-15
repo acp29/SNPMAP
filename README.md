@@ -36,6 +36,7 @@ The script will create a new folder corresponding to the protein of interest. Wi
 
 
 OBTAINING SNP INFO FROM NCBI
+
 NCBI:
 (Resources -> Variation -> dbSNP)
 
@@ -51,6 +52,7 @@ Send to: File -> Format: XML -> Sort by: Chromosome Base Position
 
 
 OBTAINING GENE INFO FROM NCBI
+
 NCBI:
 (Resources -> DNA and RNA -> Reference Sequence)
 
